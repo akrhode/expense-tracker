@@ -1,3 +1,8 @@
+.budget-tracker {
+  border-collapse: collapse;
+  min-width: 800px;
+}
+
 .budget-tracker * {
   font-family: sans-serif;
 }
